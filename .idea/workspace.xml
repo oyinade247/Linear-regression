@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d451520-5a1f-4e6e-b5fd-4bac8a5d97db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linear/LinearRegression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/linear/linear.iml" afterDir="false" />
-    </list>
+    <list default="true" id="0d451520-5a1f-4e6e-b5fd-4bac8a5d97db" name="Changes" comment="Linear regression" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +60,28 @@
       <option name="presentableId" value="Default" />
       <updated>1765022396713</updated>
     </task>
+    <task id="LOCAL-00001" summary="Linear regression">
+      <option name="closed" value="true" />
+      <created>1765180000462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765180000462</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Linear regression">
+      <option name="closed" value="true" />
+      <created>1765180124372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765180124372</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Linear regression" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linear regression" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
